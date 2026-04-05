@@ -61,8 +61,7 @@
 | ![](images/login57.png) | Login Page 57 | [View](login57/index.html) |
 | ![](images/login58.png) | Login Page 58 | [View](login58/index.html) |
 | ![](images/login59.png) | Login Page 59 | [View](login59/index.html) |
-| ![](images/login60.png)
-60 | [View](login60/index.html) |
+| ![](images/login60.png) | Login Page 60 | [View](login60/index.html) |
 | ![](images/login61.png) | Login Page 61 | [View](login61/index.html) |
 | ![](images/login62.png) | Login Page 62 | [View](login62/index.html) |
 | ![](images/login63.png) | Login Page 63 | [View](login63/index.html) |
